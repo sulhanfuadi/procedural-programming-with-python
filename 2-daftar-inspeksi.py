@@ -19,7 +19,7 @@
 # menyimpan daftar inspeksi ke dalam variabel bertipe data list.
 
 # TODO:
-#  1. Buatlah variabel inspectionList bertipe data list untuk menyimpan daftar inspeksi dengan isian sebagai berikut.
+#  Buatlah variabel inspectionList bertipe data list untuk menyimpan daftar inspeksi dengan isian sebagai berikut.
 #     - pemahaman terhadap rencana dan desain
 #     - ketersediaan bahan dan peralatan
 #     - pengawasan pekerjaan
