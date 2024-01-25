@@ -32,7 +32,7 @@
 
 # SOLUSI:
 # 1. Buatlah variabel isSick bertipe data boolean yang bernilai False untuk menyimpan status sakit.
-is_sick: bool = False
+isSick: bool = False
 
 # 2. Buatlah perintah untuk meminta masukan pengguna yang bertipe data float dan simpan pada variabel temperature.
 temperature: float = float(input("Masukkan suhu tubuh Anda: "))
@@ -41,17 +41,17 @@ temperature: float = float(input("Masukkan suhu tubuh Anda: "))
 # 3.1. Jika temperature 38 ke atas akan mencetak teks "Anda mengalami sakit demam." dan ubahlah status isSick menjadi True.
 if temperature >= 38:
     print("Anda mengalami sakit demam.")
-    is_sick = True
+    isSick = True
 # 3.2. Jika temperature di antara 35 dan 38 akan mencetak teks "Suhu tubuh Anda normal."
-elif 35 <= temperature < 38:
+elif 35 < temperature < 38:
     print("Suhu tubuh Anda normal.")
 # 3.3. Jika temperature kurang dari atau sama dengan 35 akan mencetak teks "Anda terjangkit sakit hipotermia." dan ubahlah status isSick menjadi True.
 else:
     print("Anda terjangkit sakit hipotermia.")
-    is_sick = True
+    isSick = True
 
 # 4. Ada pemberian saran apabila sedang mengalami sakit.
 # 4.1. Gunakan variabel isSick untuk memeriksa sedang sakit atau tidak.
 # 4.2. Jika mengalami sakit, program akan mencetak teks "Anda disarankan istirahat atau kunjungi dokter secepatnya."
-if is_sick:
+if isSick:
     print("Anda disarankan istirahat atau kunjungi dokter secepatnya.")
