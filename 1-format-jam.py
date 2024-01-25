@@ -22,7 +22,7 @@
 #     - key "ss" bernilai angka 43
 
 # SOLUSI:
-# SOLUSI 1 - Menggunakan type annotation
+# Menggunakan type annotation
 # 1. Buat variabel startTime bertipe data dictionary
 startTime: dict[str, int] = {"HH": 9, "mm": 23, "ss": 57}
 # 2. Buat variabel endTime bertipe data dictionary
