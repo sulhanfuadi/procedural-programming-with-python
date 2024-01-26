@@ -55,6 +55,7 @@ def checkArea(landArea: float, width: float, length: float) -> bool:
     else:
         return True
 #   4.3. Fungsi ini mengembalikan nilai boolean yang menyatakan bisa atau tidak bangunan dibangun berdasarkan ketiga nilai tersebut.
+
 #   4.4. Simpan hasil fungsi pada variabel check.
 check: bool = checkArea(landArea, width, length)
 

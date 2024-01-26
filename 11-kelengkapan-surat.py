@@ -24,6 +24,7 @@
 #           3.1.2. Apabila bernilai True, cetak teks "Anda dapat membangun rumah di kota {city}."
 #      3.2. Jalankan prosedur untuk memeriksa berkas
 
+
 # SOLUSI:
 #  1. Buatlah perintah untuk meminta masukan pengguna yang bertipe data integer dan simpan pada variabel permission.
 #   1.1. Beri informasi bahwa masukan hanya boleh mengizinkan nilai 1 untuk True atau 0 untuk False.
