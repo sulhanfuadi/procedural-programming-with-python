@@ -1,6 +1,7 @@
 # Kuis Coding: Perhitungan Barisan Geometri
 # January 26, 2024
 
+
 # SOAL
 # Suatu saat Bima mendapati guru sedang mengajar matematika, khususnya tentang barisan geometri. 
 # Bima duduk di barisan paling depan karena merasa sangat antusias. 
@@ -40,6 +41,7 @@
 #     4.2. menghitung suku ke-n berdasarkan state i dan simpan pada variabel Un; dan
 #     4.3. mencetak setiap variabel Un menggunakan perintah print dan parameter end.
 #  5. Lakukan pemberhentian mencetak teks dengan perintah print tanpa isi.
+
 
 # SOLUSI:
 # 1. Buatlah variabel a bertipe data integer yang bernilai 4 untuk menyimpan nilai suku pertama.

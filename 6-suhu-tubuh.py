@@ -1,6 +1,7 @@
 # Kuis Coding: Pemeriksaan Suhu Tubuh
 # January 26, 2024
 
+
 # SOAL
 # Suatu hari, Bima ke sekolah dalam kondisi yang tidak fit. Ternyata, dia mengalami demam. 
 # Bima tidak tahu harus ke dokter atau tetap melanjutkan sekolahnya. 
@@ -19,6 +20,7 @@
 # seseorang sedang sakit atau tidak berdasarkan suhu badan. Dengan begitu, setiap orang dapat lebih waspada 
 # akan kondisinya sebelum beraktivitas seharian.
 
+
 # TODO:
 #  1. Buatlah variabel isSick bertipe data boolean yang bernilai False untuk menyimpan status sakit.
 #  2. Buatlah perintah untuk meminta masukan pengguna yang bertipe data float dan simpan pada variabel temperature.
@@ -29,6 +31,7 @@
 #  4. Ada pemberian saran apabila sedang mengalami sakit.
 #     4.1. Gunakan variabel isSick untuk memeriksa sedang sakit atau tidak.
 #     4.2. Jika mengalami sakit, program akan mencetak teks "Anda disarankan istirahat atau kunjungi dokter secepatnya."
+
 
 # SOLUSI:
 # 1. Buatlah variabel isSick bertipe data boolean yang bernilai False untuk menyimpan status sakit.
